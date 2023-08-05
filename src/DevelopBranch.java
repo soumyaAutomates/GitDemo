@@ -24,6 +24,9 @@ public class DevelopBranch {
 		System.out.println("This is from GitHub folder 1");
 		
 		
+		System.out.println("This is from GitHub folder Develop branch 1");
+		System.out.println("This is from GitHub folder Develop branch 2");
+		
 
 	}
 
