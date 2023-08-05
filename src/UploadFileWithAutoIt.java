@@ -56,6 +56,9 @@ public class UploadFileWithAutoIt {
 		}
 		
 		System.out.println("This is from GitDemo");
+		System.out.println("This is from GitHub folder 1");
+		System.out.println("This is from GitHub folder 1");
+		System.out.println("This is from GitHub folder 1");
 		
 		
 
