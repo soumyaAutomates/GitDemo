@@ -55,6 +55,8 @@ public class UploadFileWithAutoIt {
 			
 		}
 		
+		System.out.println("This is from GitDemo");
+		
 		
 
 	}
